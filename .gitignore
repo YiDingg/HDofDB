@@ -1,0 +1,5 @@
+# .gitignore for STM32CubeMX projects
+
+Drivers
+MDK-ARM
+.mxproject
